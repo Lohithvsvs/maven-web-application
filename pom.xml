@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://44.203.172.100:9686/Lohith/repository/filpkart-release/</url>
+	      <url>http://172.31.95.206:9686/Lohith/repository/filpkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.203.172.100:9686/Lohith/repository/filpkart-snapshot/</url>
+	      <url>http://172.31.95.206:9686/Lohith/repository/filpkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
